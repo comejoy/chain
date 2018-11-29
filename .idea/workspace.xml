@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e791e477-12c7-4e89-8c7c-056d3d5b1060" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/address/address-ethereum.md" beforeDir="false" afterPath="$PROJECT_DIR$/address/address-ethereum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-bch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-bitcoin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-ethereum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-ltc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-trx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-xlm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address/address-xrp.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address/address-bitcoin.md">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-bitcoin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="105">
@@ -27,8 +33,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/address/address-bch.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-bch.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="174">
@@ -40,7 +46,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address/address-ltc.md">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-ltc.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="195">
@@ -51,12 +57,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address/address-xlm.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-xlm.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="165">
-                <caret line="11" column="34" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="34" />
+                <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,7 +70,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address/address-xrp.md">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-xrp.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
@@ -76,7 +82,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address/address-trx.md">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-trx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="105">
@@ -88,7 +94,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address/address-ethereum.md">
+        <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-ethereum.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -119,8 +125,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="164" />
+    <option name="y" value="160" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -183,15 +190,15 @@
       <workItem from="1543204672762" duration="3038000" />
       <workItem from="1543229402275" duration="6024000" />
       <workItem from="1543371474732" duration="3758000" />
-      <workItem from="1543460332229" duration="595000" />
+      <workItem from="1543460332229" duration="1212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13415000" />
+    <option name="totallyTimeSpent" value="14032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <frame x="495" y="85" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15221988" />
@@ -218,37 +225,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/address/bitcoinbitcoin.cpp" />
-    <entry file="file://$PROJECT_DIR$/address/address-xrp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address/address-xlm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="34" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address/address-trx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address/address-ltc.md">
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-ltc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="195">
@@ -258,14 +235,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address/address-ethereum.md">
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-xrp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-ethereum.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address/address-bitcoin.md">
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-bitcoin.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
@@ -280,11 +267,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address/address-bch.md">
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-bch.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="174">
             <caret line="17" column="21" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-trx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Tokenmanin/tamc-chain-doc/bitcoin/address/address-xlm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
