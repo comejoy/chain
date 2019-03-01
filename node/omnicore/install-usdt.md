@@ -137,7 +137,7 @@ OK - omnicored start ok!
 2019-02-25 04:05:40 addcon thread start
 2019-02-25 04:05:40 msghand thread start
 2019-02-25 04:05:40 opencon thread start
-2019-02-25 04:05:43 receive version message: /Satoshi:0.14.99/: version 70015, blocks=564542, us=18.179.14.249:53846, peer=1
+2019-02-25 04:05:43 receive version message:   version 70015, blocks=564542, us=18.179.14.249:53846, peer=1
 2019-02-25 04:05:44 Pre-allocating up to position 0x100000 in rev00000.dat
 2019-02-25 04:05:44 UpdateTip: new best=00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048 height=1 version=0x00000001 log2_work=33.000022 tx=2 date='2009-01-09 02:54:25' progress=0.000000 cache=0.0MiB(1tx)
 2019-02-25 04:05:44 UpdateTip: new best=000000006a625f06636b8bb6ac7b960a8d03705d1ace08b1a19da3fdcc99ddbd height=2 version=0x00000001 log2_work=33.584985 tx=3 date='2009-01-09 02:55:44' progress=0.000000 cache=0.0MiB(2tx)
@@ -151,6 +151,8 @@ OK - omnicored start ok!
 [github rpc调用接口](https://github.com/OmniLayer/omnicore/blob/master/src/omnicore/doc/rpc-api.md)     
 [omnicore配置文件文档](https://github.com/OmniLayer/omnicore/blob/master/src/omnicore/doc/configuration.md)   
 [bitcoin配置文件文档](https://github.com/bitcoin/bitcoin/blob/master/share/examples/bitcoin.conf)     
-[bitcoin org参考文档](https://bitcoincore.org/)
+[bitcoin org参考文档](https://bitcoincore.org/)     
+[使用rpc调用send transaction](https://github.com/OmniLayer/omnicore/wiki/Use-the-raw-transaction-API-to-create-a-Simple-Send-transaction)   
+[usdt消耗btc说明](https://github.com/OmniLayer/omnicore/wiki/Why-do-I-need-bitcoin-to-create-Omni-transactions%3F)
 
 
